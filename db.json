@@ -1,0 +1,21 @@
+{
+  "authors": [
+    {
+      "id": "1",
+      "name": "João ",
+      "birthDate": "2006-01-11T02:00:00.000Z",
+      "nationality": "Brasileiro",
+      "summary": "Teste"
+    }
+  ],
+  "books": [
+    {
+      "id": "1",
+      "title": "TESTE",
+      "genre": "TESTE",
+      "releaseDate": "2006-01-11T02:00:00.000Z",
+      "onSale": true,
+      "authorId": "1"
+    }
+  ]
+}
